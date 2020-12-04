@@ -1,4 +1,4 @@
-# Code and Chill 3.0 - Winter 2020
+# Code and Chill 3.0 - Fall 2020
 Solution to the Winter 2020 Code and Chil 3.0
 
 # Competition Links
